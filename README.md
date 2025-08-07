@@ -178,11 +178,10 @@ Security is a fundamental aspect of system administration. Here are essential to
 
 - `man command` shows a command’s manual page
 - `command --help` for quick usage info
-- Online resources:  
+- Online resources:
+  - [LinuxQuestions.org](https://www.linuxquestions.org/)
   - [Arch Wiki](https://wiki.archlinux.org/) and Community forum: [Ask Arch](https://bbs.archlinux.org/) **COMMUNITY IS FILLED WITH SMART COMPETENT PEOPLE**: They will help you out, And they also support X11/X11Libre as well and while being a conservative.
   - [Ubuntu Documentation](https://help.ubuntu.com/) and Community forum: [Ask Ubuntu](https://askubuntu.com/) **PROCEED WITH CAUTION**: Might get ban by these corp/leftist for being a conservative and be called a nazi/fascist.
-  -, [LinuxQuestions.org](https://www.linuxquestions.org/)
-
 
 ## Open Source Principles and Software Verification
 
