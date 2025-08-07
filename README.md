@@ -33,10 +33,10 @@ Welcome to **Linux 101**, a comprehensive guide designed for beginners who are j
 
 A **distribution** packages the Linux kernel with other software to form a complete operating system. Popular distributions:
 
-- **Ubuntu / Linux Mint:** Beginner-friendly, large user communities.
-- **Debian:** Stable and well-tested.
-- **Fedora:** Cutting-edge software from the open-source community.
-- **Arch Linux:** Rolling release, minimal by default, for advanced users.
+- **Ubuntu / Linux Mint:** Beginner-friendly, large user communities, leftist controlled corp
+- **Debian:** Stable and leftist controlled corp.
+- **Fedora:** Cutting-edge software from the open-source community and leftist controlled corp.
+- **Arch Linux:** Rolling release, minimal by default, for advanced users. (Now supports **X11Libre**)
 
 
 ## Getting Started
@@ -179,9 +179,9 @@ Security is a fundamental aspect of system administration. Here are essential to
 - `man command` shows a command’s manual page
 - `command --help` for quick usage info
 - Online resources:  
-  - [Arch Wiki](https://wiki.archlinux.org/)  
-  - [Ubuntu Documentation](https://help.ubuntu.com/)  
-  - Community forums: [Ask Ubuntu](https://askubuntu.com/), [LinuxQuestions.org](https://www.linuxquestions.org/)
+  - [Arch Wiki](https://wiki.archlinux.org/) and Community forum: [Ask Arch](https://bbs.archlinux.org/) **COMMUNITY IS FILLED WITH SMART COMPETENT PEOPLE**: They will help you out, And they also support X11/X11Libre as well and while being a conservative.
+  - [Ubuntu Documentation](https://help.ubuntu.com/) and Community forum: [Ask Ubuntu](https://askubuntu.com/) **PROCEED WITH CAUTION**: Might get ban by these corp/leftist for being a conservative and be called a nazi/fascist.
+  -, [LinuxQuestions.org](https://www.linuxquestions.org/)
 
 
 ## Open Source Principles and Software Verification
@@ -208,7 +208,7 @@ Instead of proprietary software, consider using:
 - **Shell Scripting & Automation:** Learn Bash scripting, environment variables, cron jobs.
 - **Configuration Management:** Dive into systemd unit files, advanced firewall rules, SELinux policies.
 - **Security Hardening & Auditing:** Regularly review logs, implement IDS/IPS systems, set up intrusion detection with `fail2ban` or `tripwire`.
-- **Contribute to Open Source:** Explore [GitHub](https://github.com/) and [GitLab](https://gitlab.com/) projects, contribute patches or documentation.
+- **Contribute to Open Source:** Explore [GitHub](https://github.com/) projects, contribute patches or documentation.
 
 **Recommended Reads & Resources:**
 - *The Linux Command Line* by William Shotts
